@@ -1,0 +1,165 @@
+﻿  Bush.cpp
+C:\Users\Sokol\source\repos\Hw2\Hw2\Bush.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Sokol\source\repos\Hw2\Hw2\rnd.h(35,1): warning C4302: приведение типов: усечение из "const char *" к "char"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Bush.cpp(9,20): error C2679: бинарный ">>": не найден оператор, принимающий правый операнд типа "const char *" (или приемлемое преобразование отсутствует)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(301,39): message : может быть "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_streambuf<char,std::char_traits<char>> *)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(297,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(void *&)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(293,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long double &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(289,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(double &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(285,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(float &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(281,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned __int64 &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(277,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(__int64 &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(273,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned long &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(269,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(265,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned int &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(257,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(int &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(253,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned short &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(221,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(short &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(217,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(bool &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(188,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::ios_base &(__cdecl *)(std::ios_base &))"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(183,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(178,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_istream<char,std::char_traits<char>> &(__cdecl *)(std::basic_istream<char,std::char_traits<char>> &))"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Bush.cpp(9,20): message : при попытке сопоставить список аргументов "(std::istream, const char *)"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Bush.cpp(17,17): error C2679: бинарный ">>": не найден оператор, принимающий правый операнд типа "const char *" (или приемлемое преобразование отсутствует)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(301,39): message : может быть "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_streambuf<char,std::char_traits<char>> *)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(297,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(void *&)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(293,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long double &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(289,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(double &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(285,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(float &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(281,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned __int64 &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(277,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(__int64 &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(273,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned long &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(269,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(265,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned int &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(257,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(int &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(253,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned short &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(221,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(short &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(217,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(bool &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(188,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::ios_base &(__cdecl *)(std::ios_base &))"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(183,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(178,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_istream<char,std::char_traits<char>> &(__cdecl *)(std::basic_istream<char,std::char_traits<char>> &))"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Bush.cpp(17,17): message : при попытке сопоставить список аргументов "(std::ifstream, const char *)"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Bush.cpp(22,31): error C2664: "void Random::GetName(char *)": невозможно преобразовать аргумент 1 из "const char *" в "char *"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Bush.cpp(22,26): message : В результате преобразования теряются квалификаторы
+C:\Users\Sokol\source\repos\Hw2\Hw2\rnd.h(29,8): message : см. объявление "Random::GetName"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Bush.cpp(38,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sokol\source\repos\Hw2\Hw2\Bush.cpp(39,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Container.cpp
+C:\Users\Sokol\source\repos\Hw2\Hw2\rnd.h(35,1): warning C4302: приведение типов: усечение из "const char *" к "char"
+C:\Users\Sokol\source\repos\Hw2\Hw2\plant.h(26,26): error C2061: синтаксическая ошибка: идентификатор "ifstream"
+C:\Users\Sokol\source\repos\Hw2\Hw2\plant.h(28,19): error C2061: синтаксическая ошибка: идентификатор "ifstream"
+C:\Users\Sokol\source\repos\Hw2\Hw2\plant.h(34,20): error C2061: синтаксическая ошибка: идентификатор "ofstream"
+C:\Users\Sokol\source\repos\Hw2\Hw2\container.h(20,11): error C2061: синтаксическая ошибка: идентификатор "ifstream"
+C:\Users\Sokol\source\repos\Hw2\Hw2\container.h(24,12): error C2061: синтаксическая ошибка: идентификатор "ofstream"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Container.cpp(37,28): error C2761: "void Container::In(void)": повторное объявление члена запрещено.
+C:\Users\Sokol\source\repos\Hw2\Hw2\Container.cpp(37,20): error C2065: ifstream: необъявленный идентификатор
+C:\Users\Sokol\source\repos\Hw2\Hw2\Container.cpp(37,30): error C2065: ifst: необъявленный идентификатор
+C:\Users\Sokol\source\repos\Hw2\Hw2\Container.cpp(37,36): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Container.cpp(37,36): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Sokol\source\repos\Hw2\Hw2\Container.cpp(57,29): error C2761: "void Container::Out(void)": повторное объявление члена запрещено.
+C:\Users\Sokol\source\repos\Hw2\Hw2\Container.cpp(57,21): error C2065: ofstream: необъявленный идентификатор
+C:\Users\Sokol\source\repos\Hw2\Hw2\Container.cpp(57,31): error C2065: ofst: необъявленный идентификатор
+C:\Users\Sokol\source\repos\Hw2\Hw2\Container.cpp(57,37): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Container.cpp(57,37): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+  Flower.cpp
+C:\Users\Sokol\source\repos\Hw2\Hw2\Flower.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Sokol\source\repos\Hw2\Hw2\rnd.h(35,1): warning C4302: приведение типов: усечение из "const char *" к "char"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Flower.cpp(11,20): error C2679: бинарный ">>": не найден оператор, принимающий правый операнд типа "const char *" (или приемлемое преобразование отсутствует)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(301,39): message : может быть "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_streambuf<char,std::char_traits<char>> *)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(297,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(void *&)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(293,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long double &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(289,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(double &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(285,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(float &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(281,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned __int64 &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(277,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(__int64 &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(273,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned long &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(269,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(265,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned int &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(257,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(int &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(253,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned short &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(221,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(short &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(217,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(bool &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(188,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::ios_base &(__cdecl *)(std::ios_base &))"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(183,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(178,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_istream<char,std::char_traits<char>> &(__cdecl *)(std::basic_istream<char,std::char_traits<char>> &))"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Flower.cpp(11,20): message : при попытке сопоставить список аргументов "(std::istream, const char *)"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Flower.cpp(21,17): error C2679: бинарный ">>": не найден оператор, принимающий правый операнд типа "const char *" (или приемлемое преобразование отсутствует)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(301,39): message : может быть "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_streambuf<char,std::char_traits<char>> *)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(297,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(void *&)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(293,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long double &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(289,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(double &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(285,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(float &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(281,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned __int64 &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(277,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(__int64 &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(273,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned long &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(269,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(265,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned int &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(257,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(int &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(253,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned short &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(221,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(short &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(217,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(bool &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(188,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::ios_base &(__cdecl *)(std::ios_base &))"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(183,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(178,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_istream<char,std::char_traits<char>> &(__cdecl *)(std::basic_istream<char,std::char_traits<char>> &))"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Flower.cpp(21,17): message : при попытке сопоставить список аргументов "(std::ifstream, const char *)"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Flower.cpp(26,31): error C2664: "void Random::GetName(char *)": невозможно преобразовать аргумент 1 из "const char *" в "char *"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Flower.cpp(26,26): message : В результате преобразования теряются квалификаторы
+C:\Users\Sokol\source\repos\Hw2\Hw2\rnd.h(29,8): message : см. объявление "Random::GetName"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Flower.cpp(42,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sokol\source\repos\Hw2\Hw2\Flower.cpp(43,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Hw2.cpp
+C:\Users\Sokol\source\repos\Hw2\Hw2\rnd.h(35,1): warning C4302: приведение типов: усечение из "const char *" к "char"
+C:\Users\Sokol\source\repos\Hw2\Hw2\plant.h(26,26): error C2061: синтаксическая ошибка: идентификатор "ifstream"
+C:\Users\Sokol\source\repos\Hw2\Hw2\plant.h(28,19): error C2061: синтаксическая ошибка: идентификатор "ifstream"
+C:\Users\Sokol\source\repos\Hw2\Hw2\plant.h(34,20): error C2061: синтаксическая ошибка: идентификатор "ofstream"
+C:\Users\Sokol\source\repos\Hw2\Hw2\container.h(20,11): error C2061: синтаксическая ошибка: идентификатор "ifstream"
+C:\Users\Sokol\source\repos\Hw2\Hw2\container.h(24,12): error C2061: синтаксическая ошибка: идентификатор "ofstream"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Hw2.cpp(42,13): error C2660: Container::Out: функция не принимает 1 аргументов
+C:\Users\Sokol\source\repos\Hw2\Hw2\container.h(24,8): message : см. объявление "Container::Out"
+  Plant.cpp
+C:\Users\Sokol\source\repos\Hw2\Hw2\rnd.h(35,1): warning C4302: приведение типов: усечение из "const char *" к "char"
+  Tree.cpp
+C:\Users\Sokol\source\repos\Hw2\Hw2\Tree.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Sokol\source\repos\Hw2\Hw2\rnd.h(35,1): warning C4302: приведение типов: усечение из "const char *" к "char"
+C:\Users\Sokol\source\repos\Hw2\Hw2\plant.h(26,26): error C2061: синтаксическая ошибка: идентификатор "ifstream"
+C:\Users\Sokol\source\repos\Hw2\Hw2\plant.h(28,19): error C2061: синтаксическая ошибка: идентификатор "ifstream"
+C:\Users\Sokol\source\repos\Hw2\Hw2\plant.h(34,20): error C2061: синтаксическая ошибка: идентификатор "ofstream"
+C:\Users\Sokol\source\repos\Hw2\Hw2\tree.h(19,19): error C2061: синтаксическая ошибка: идентификатор "ifstream"
+C:\Users\Sokol\source\repos\Hw2\Hw2\tree.h(23,20): error C2061: синтаксическая ошибка: идентификатор "ofstream"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Tree.cpp(8,41): error C2065: endl: необъявленный идентификатор
+C:\Users\Sokol\source\repos\Hw2\Hw2\Tree.cpp(9,20): error C2679: бинарный ">>": не найден оператор, принимающий правый операнд типа "const char *" (или приемлемое преобразование отсутствует)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(301,39): message : может быть "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_streambuf<char,std::char_traits<char>> *)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(297,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(void *&)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(293,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long double &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(289,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(double &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(285,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(float &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(281,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned __int64 &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(277,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(__int64 &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(273,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned long &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(269,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(265,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned int &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(257,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(int &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(253,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned short &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(221,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(short &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(217,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(bool &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(188,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::ios_base &(__cdecl *)(std::ios_base &))"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(183,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(178,39): message : или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_istream<char,std::char_traits<char>> &(__cdecl *)(std::basic_istream<char,std::char_traits<char>> &))"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Tree.cpp(9,20): message : при попытке сопоставить список аргументов "(std::istream, const char *)"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Tree.cpp(10,40): error C2065: endl: необъявленный идентификатор
+C:\Users\Sokol\source\repos\Hw2\Hw2\Tree.cpp(17,23): error C2761: "void Tree::In(void)": повторное объявление члена запрещено.
+C:\Users\Sokol\source\repos\Hw2\Hw2\Tree.cpp(17,15): error C2065: ifstream: необъявленный идентификатор
+C:\Users\Sokol\source\repos\Hw2\Hw2\Tree.cpp(17,25): error C2065: ifst: необъявленный идентификатор
+C:\Users\Sokol\source\repos\Hw2\Hw2\Tree.cpp(17,31): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Tree.cpp(17,31): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Sokol\source\repos\Hw2\Hw2\Tree.cpp(23,31): error C2664: "void Random::GetName(char *)": невозможно преобразовать аргумент 1 из "const char *" в "char *"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Tree.cpp(23,26): message : В результате преобразования теряются квалификаторы
+C:\Users\Sokol\source\repos\Hw2\Hw2\rnd.h(29,8): message : см. объявление "Random::GetName"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Tree.cpp(29,24): error C2761: "void Tree::Out(void)": повторное объявление члена запрещено.
+C:\Users\Sokol\source\repos\Hw2\Hw2\Tree.cpp(29,16): error C2065: ofstream: необъявленный идентификатор
+C:\Users\Sokol\source\repos\Hw2\Hw2\Tree.cpp(29,26): error C2065: ofst: необъявленный идентификатор
+C:\Users\Sokol\source\repos\Hw2\Hw2\Tree.cpp(29,32): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Sokol\source\repos\Hw2\Hw2\Tree.cpp(29,32): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Sokol\source\repos\Hw2\Hw2\Tree.cpp(39,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sokol\source\repos\Hw2\Hw2\Tree.cpp(40,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...

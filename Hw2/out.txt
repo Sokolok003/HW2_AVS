@@ -1,0 +1,4 @@
+Filled container:
+Container contains 2 elements.
+0: It is Tree: name = OdjyGdnxbtSwCCrAExCDMrmXVP, age = 513. Perimeter = 2
+1: It is Bush: name = XvFDbAyMRYmdJFWItzUsuIYqaj, type = Apr. Perimeter = 2
